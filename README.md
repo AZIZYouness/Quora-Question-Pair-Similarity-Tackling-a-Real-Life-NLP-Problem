@@ -5,6 +5,7 @@ Let's try to map this whole problem into a machine learning problem. First, we n
 - We can download the data using the command(after installing kaggle API):
 > kaggle competitions download -c quora-question-pairs
 - Or we can download it directely from the quora competition page.
+> https://www.kaggle.com/c/quora-question-pairs/data
 ## Data overview 
 - Size of Train.csv - 60MB
 - Number of rows in Train.csv = 404,290
