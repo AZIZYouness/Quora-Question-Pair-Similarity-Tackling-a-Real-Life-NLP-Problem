@@ -1,4 +1,4 @@
-# Quora-Question-Pair-Similarity-Tackling-a-Real-Life-NLP-Problem
+# Tackling-a-Real-Life-NLP-Problem-Quora-Question-Pair-Similarity
 Identify which questions asked on Quora are duplicates of questions that have already been asked.
 ## Mapping to an ML problem 
 Let's try to map this whole problem into a machine learning problem. First, we need to understand what data we have.
